@@ -1,0 +1,23 @@
+# Sample Output — Tachyon House Points Calculator
+
+This sample demonstrates how the app should look after these awards have been entered:
+
+| Entry | House | Points awarded | House total after award |
+|---:|---|---:|---:|
+| 1 | ALPHA | 50 | 50 |
+| 2 | MATRIX | 80 | 80 |
+| 3 | INFER | 65 | 65 |
+| 4 | LAYER | 30 | 30 |
+
+## Final scoreboard
+
+| Position | House | Total |
+|---:|---|---:|
+| 1 | MATRIX | 80 |
+| 2 | INFER | 65 |
+| 3 | ALPHA | 50 |
+| 4 | LAYER | 30 |
+
+**Winning house: MATRIX — 80 points.**
+
+The application recalculates the leaderboard after each award. These are sample values for demonstration and are not built into the starting scoreboard.

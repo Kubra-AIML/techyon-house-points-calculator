@@ -134,4 +134,11 @@ tachyon-house-points-calculator/
 └── screenshots/
     ├── leaderboard-sample.png
     └── mobile-sample.png
+## Screenshots
+
+### House Leaderboard
+![House Leaderboard](screenshots/leaderboard-sample.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-sample.png)
 ```
